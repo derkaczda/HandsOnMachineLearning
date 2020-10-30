@@ -1,0 +1,3 @@
+outs:
+- md5: 595730a2de5c5292633fc50623bd2fde
+  path: 07_forest_base_mnist.pkl

@@ -1,0 +1,3 @@
+outs:
+- md5: df2094e193d684e2cc2775ce285e66ef
+  path: 07_extra_forest_search_mnist.pkl

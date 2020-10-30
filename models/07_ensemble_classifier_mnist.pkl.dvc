@@ -1,0 +1,3 @@
+outs:
+- md5: 881e79265f847dc2a361a354850fdc62
+  path: 07_ensemble_classifier_mnist.pkl

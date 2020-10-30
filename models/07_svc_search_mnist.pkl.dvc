@@ -1,0 +1,3 @@
+outs:
+- md5: 6e04d315b8b71422d8234168ea71c33d
+  path: 07_svc_search_mnist.pkl
