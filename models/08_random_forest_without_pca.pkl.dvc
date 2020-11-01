@@ -1,0 +1,3 @@
+outs:
+- md5: 595730a2de5c5292633fc50623bd2fde
+  path: 08_random_forest_without_pca.pkl
